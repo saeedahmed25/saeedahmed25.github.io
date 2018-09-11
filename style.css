@@ -8,6 +8,9 @@ html, body {
 }
 
 body {
+  url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
+  background-position: center top;
+  background-size: cover;
   font-family: 'Lato', sans-serif;
   margin: 0;
 }
